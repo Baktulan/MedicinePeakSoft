@@ -1,4 +1,7 @@
 package serviceImpl;
 
-public class MedicineServiceImpl {
+import service.MedicineService;
+
+public class MedicineServiceImpl implements MedicineService {
+
 }
